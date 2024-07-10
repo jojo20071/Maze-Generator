@@ -1,0 +1,18 @@
+html {
+    background-color: #eee;
+    font-family: sans-serif;
+  }
+  h1 {
+    text-align: center;
+  }
+  canvas {
+    border: 1px solid #141313;
+    display: block;
+    margin: 0 auto;
+    background: #f3f0f0;
+  }
+  #controls {
+    text-align: center;
+    margin-top: 19px;
+  }
+  
