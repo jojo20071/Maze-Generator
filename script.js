@@ -1,7 +1,7 @@
 const canvas = document.getElementById("mazeCanvas");
 const ctx = canvas.getContext("2d");
 
-const cols = 30;
+const cols = 31;
 const rows = 30;
 const cellSize = canvas.width / cols;
 
