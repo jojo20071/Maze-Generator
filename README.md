@@ -1,4 +1,5 @@
 # Maze Generator
+![image](https://github.com/user-attachments/assets/87275f7a-7d23-4b97-9d60-d78242d7ea73)
 
 ## Overview
 
