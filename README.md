@@ -1,6 +1,6 @@
 # Maze Generator
 ![image](https://github.com/user-attachments/assets/87275f7a-7d23-4b97-9d60-d78242d7ea73)
-
+Live: https://maze-generator-five.vercel.app/
 ## Overview
 
 This JavaScript program generates a maze using a depth-first search (DFS) algorithm. It visualizes the maze construction process on an HTML canvas, with each cell drawn and connected to its neighbors based on random selection.
